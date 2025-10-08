@@ -1,5 +1,5 @@
 function minCostClimbingStairs(cost: number[]): number {
-    const n:number = cost.length;
+    const n = cost.length;
     if (n === 1) return cost[0];
     let prev2:number = cost[0]; // dp[i-2]
     let prev1:number = cost[1]; // dp[i-1]
