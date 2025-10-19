@@ -22,6 +22,7 @@ var numTrees = function(n) {
   }
   return G[n];
 };
+
 //卡特兰数迭代公式
 // function numTrees(n) {
 //   let c = 1; // C0
