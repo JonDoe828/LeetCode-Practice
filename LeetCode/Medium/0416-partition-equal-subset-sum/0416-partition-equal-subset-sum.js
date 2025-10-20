@@ -7,12 +7,13 @@ var canPartition = function (nums) {
     if (sum % 2 !== 0) return false;
 
     const target = sum / 2;
+
+    let maxv = 0;
+    for (let i = 0; i < nums.length; i++) if (nums[i] > maxv) maxv = nums[i];
+    if (maxv > target) return false;
+
     const dp = new Array(target + 1).fill(0);
-    // 剪枝
-    let mx = 0;
-    for (const x of nums) if (x > mx) mx = x;
-    if (mx > target) return false;
-    
+
     for (const x of nums) {
         for (let j = target; j >= x; j--) {
             dp[j] = Math.max(dp[j], dp[j - x] + x);
