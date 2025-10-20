@@ -4,8 +4,7 @@ public:
 
         int sum = accumulate(nums.begin(), nums.end(), 0);
 
-        if (sum % 2 == 1)
-            return false;
+        if (sum % 2 != 0) return false;
 
         int target = sum / 2;
 
