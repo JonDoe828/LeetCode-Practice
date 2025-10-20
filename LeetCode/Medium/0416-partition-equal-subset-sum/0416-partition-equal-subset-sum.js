@@ -8,10 +8,6 @@ var canPartition = function (nums) {
 
     const target = sum / 2;
 
-    let maxv = 0;
-    for (let i = 0; i < nums.length; i++) if (nums[i] > maxv) maxv = nums[i];
-    if (maxv > target) return false;
-
     const dp = new Array(target + 1).fill(0);
 
     for (const x of nums) {
