@@ -1,6 +1,6 @@
 function findTargetSumWays(nums: number[], target: number): number {
     const sum = nums.reduce((a, b) => a + b, 0);
-    if (target > sum) return 0;
+    if (Math.abs(target) > sum) return 0;
 
     // sum(P) = (sum + target) / 2 必须是整数
     if (((sum + target) & 1) === 1) return 0;
