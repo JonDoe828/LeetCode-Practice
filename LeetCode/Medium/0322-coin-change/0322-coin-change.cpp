@@ -1,8 +1,7 @@
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
-        // if (amount == 0)
-        //     return 0;
+        
         const int INF = amount + 1;
         vector<int> dp(amount + 1, INF);
         dp[0] = 0;
