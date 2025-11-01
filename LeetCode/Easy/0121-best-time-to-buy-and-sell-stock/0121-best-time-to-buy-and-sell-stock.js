@@ -18,13 +18,30 @@
 // };
 
 
-var maxProfit = function (prices) {
-  let hold = -Infinity; // 持有状态（最多买一次）：相当于 -minPrice
-  let cash = 0;         // 不持有状态（已经卖出或从未买）
+// var maxProfit = function (prices) {
+//     let hold = -Infinity; // 持有状态（最多买一次）：相当于 -minPrice
+//     let cash = 0;         // 不持有状态（已经卖出或从未买）
 
-  for (const p of prices) {
-    hold = Math.max(hold, -p);   // 选择在更低价买入
-    cash = Math.max(cash, hold + p); // 选择在今天卖出
-  }
-  return cash;
-};
+//     for (const p of prices) {
+//         hold = Math.max(hold, -p);   // 选择在更低价买入
+//         cash = Math.max(cash, hold + p); // 选择在今天卖出
+//     }
+//     return cash;
+// };
+
+
+
+var maxProfit = function (prices) {
+    if (prices.length === 0) return 0;
+
+    let buy = prices[0];
+    let profit = 0;
+    for (let i = 1; i < prices.length; i++) {
+        if (prices[i] < buy) {
+            buy = prices[i];
+        } else if (prices[i] - buy > profit) {
+            profit = prices[i] - buy;
+        }
+    }
+    return profit;
+}
