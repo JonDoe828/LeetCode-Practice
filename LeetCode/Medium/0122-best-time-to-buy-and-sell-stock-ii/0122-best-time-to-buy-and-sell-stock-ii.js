@@ -29,14 +29,33 @@
 //   return cash;
 // };
 
+
 var maxProfit = function (prices) {
   if (prices.length === 0) return 0;
 
-  let profit = 0;
+  let buy = prices[0], profit = 0;
   for (let i = 1; i < prices.length; i++) {
-    if (prices[i] > prices[i - 1]) {
-      profit += prices[i] - prices[i - 1]; // 吃下每一步的上涨
+    // 若出现回落或持平，说明前一段上升结束，结算一次
+    if (prices[i] <= prices[i - 1]) {
+      profit += Math.max(0, prices[i - 1] - buy);
+      buy = prices[i]; // 新的谷底
     }
   }
+  // 补结最后一段上升
+  profit += Math.max(0, prices[prices.length - 1] - buy);
   return profit;
 };
+
+
+//0 ms
+// var maxProfit = function (prices) {
+//   if (prices.length === 0) return 0;
+
+//   let profit = 0;
+//   for (let i = 1; i < prices.length; i++) {
+//     if (prices[i] > prices[i - 1]) {
+//       profit += prices[i] - prices[i - 1]; // 吃下每一步的上涨
+//     }
+//   }
+//   return profit;
+// };
