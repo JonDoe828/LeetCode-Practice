@@ -31,34 +31,34 @@
 
 
 
-// var maxProfit = function (prices) {
-//     if (prices.length === 0) return 0;
+var maxProfit = function (prices) {
+    if (prices.length === 0) return 0;
 
-//     let buy = prices[0];
-//     let profit = 0;
-//     for (let i = 1; i < prices.length; i++) {
-//         if (prices[i] < buy) {
-//             buy = prices[i];
-//         } else if (prices[i] - buy > profit) {
-//             profit = prices[i] - buy;
-//         }
-//     }
-//     return profit;
-// }
-
-
-const maxProfit = (prices) => {
-  let left = 0; // Buy
-  let right = 1; // Sell
-  let max_profit = 0;
-  while (right < prices.length) {
-    if (prices[left] < prices[right]) {
-      let profit = prices[right] - prices[left];
-      max_profit = Math.max(max_profit, profit);
-    } else {
-      left = right;
+    let buy = prices[0];
+    let profit = 0;
+    for (let i = 1; i < prices.length; i++) {
+        if (prices[i] < buy) {
+            buy = prices[i];
+        } else if (prices[i] - buy > profit) {
+            profit = prices[i] - buy;
+        }
     }
-    right++;
-  }
-  return max_profit;
-};
+    return profit;
+}
+
+
+// const maxProfit = (prices) => {
+//   let left = 0; // Buy
+//   let right = 1; // Sell
+//   let max_profit = 0;
+//   while (right < prices.length) {
+//     if (prices[left] < prices[right]) {
+//       let profit = prices[right] - prices[left];
+//       max_profit = Math.max(max_profit, profit);
+//     } else {
+//       left = right;
+//     }
+//     right++;
+//   }
+//   return max_profit;
+// };
