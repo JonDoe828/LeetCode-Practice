@@ -48,7 +48,7 @@
 // };
 
 
-//0 ms
+//0 ms  Greedy
 var maxProfit = function (prices) {
   if (prices.length === 0) return 0;
 
