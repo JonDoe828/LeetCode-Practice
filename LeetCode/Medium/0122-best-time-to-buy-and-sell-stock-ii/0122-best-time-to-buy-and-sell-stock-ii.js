@@ -17,27 +17,26 @@
 //     return dp[len - 1][1]
 // };
 
-var maxProfit = function(prices) {
-  let cash = 0, hold = -prices[0];
-  for (let i = 1; i < prices.length; i++) {
-    const newCash = Math.max(cash, hold + prices[i]);
-    const newHold = Math.max(hold, cash - prices[i]);
-    cash = newCash; hold = newHold;
-  }
-  return cash;
-};
 
-// var maxProfit = function (prices) {
-//     if (prices.length === 0) return 0;
-
-//     let buy = prices[0];
-//     let profit = 0;
-//     for (let i = 1; i < prices.length; i++) {
-//         if (prices[i] < buy) {
-//             buy = prices[i];
-//         } else if (prices[i] - buy > profit) {
-//             profit = prices[i] - buy;
-//         }
-//     }
-//     return profit;
+//3ms
+// var maxProfit = function(prices) {
+//   let cash = 0, hold = -prices[0];
+//   for (let i = 1; i < prices.length; i++) {
+//     const newCash = Math.max(cash, hold + prices[i]);
+//     const newHold = Math.max(hold, cash - prices[i]);
+//     cash = newCash; hold = newHold;
+//   }
+//   return cash;
 // };
+
+var maxProfit = function (prices) {
+  if (prices.length === 0) return 0;
+
+  let profit = 0;
+  for (let i = 1; i < prices.length; i++) {
+    if (prices[i] > prices[i - 1]) {
+      profit += prices[i] - prices[i - 1]; // 吃下每一步的上涨
+    }
+  }
+  return profit;
+};
