@@ -10,8 +10,7 @@ var longestCommonSubsequence = function (text1, text2) {
 
     // Create a 2D array to store the lengths of longest common subsequences
     // for all subproblems, initialized with zero
-    const dp = new Array(length1 + 1).fill(0).map(() => new Array(length2 + 1).fill(0));
-
+    const dp = Array.from({length:length1 +1},()=>new Array(length2 + 1).fill(0))
     // Build the dp array from the bottom up
     for (let i = 1; i <= length1; ++i) {
         for (let j = 1; j <= length2; ++j) {
