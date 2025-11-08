@@ -37,18 +37,27 @@ public:
     //     return res;
     // }
 
-    int maxSubArray(vector<int>& nums) {
-        int n = nums.size();
-        if (n == 0)
-            return 0;
-        vector<int> dp(n);
-        dp[0] = nums[0];
-        int res = dp[0];
+    // int maxSubArray(vector<int>& nums) {
+    //     int n = nums.size();
+    //     if (n == 0)
+    //         return 0;
+    //     vector<int> dp(n);
+    //     dp[0] = nums[0];
+    //     int res = dp[0];
 
-        for (int i = 1; i < n; i++) {
-            dp[i] = max(nums[i], dp[i - 1] + nums[i]);
-            res = max(res, dp[i]);
-        }
-        return res;
+    //     for (int i = 1; i < n; i++) {
+    //         dp[i] = max(nums[i], dp[i - 1] + nums[i]);
+    //         res = max(res, dp[i]);
+    //     }
+    //     return res;
+    // }
+
+    int maxSubArray(vector<int>& nums) {
+    int cur = nums[0], res = nums[0];
+    for (int i = 1; i < (int)nums.size(); ++i) {
+        cur = max(nums[i], cur + nums[i]);
+        res = max(res, cur);
     }
+    return res;
+}
 };
