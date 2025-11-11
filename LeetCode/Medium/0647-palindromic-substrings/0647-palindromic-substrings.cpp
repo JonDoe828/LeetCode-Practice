@@ -10,7 +10,7 @@ public:
                     if (j - i <= 1 || dp[i + 1][j - 1] == true) {
                         dp[i][j] = true;
                         ++ans;
-                    } 
+                    }
                 }
             }
         }
