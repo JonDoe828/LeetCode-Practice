@@ -35,6 +35,8 @@ public:
     // }
 
     int minDistance(string& word1, string& word2) {
+        if (size(word1) < size(word2))
+            swap(word1, word2);
         vector<vector<int>> dp(2, vector<int>(size(word2) + 1));
         for (int i = 0; i <= size(word1); i++)
             for (int j = 0; j <= size(word2); j++)
