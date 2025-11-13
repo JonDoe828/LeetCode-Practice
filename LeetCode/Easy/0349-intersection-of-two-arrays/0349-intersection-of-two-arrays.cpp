@@ -1,5 +1,6 @@
 class Solution {
 public:
+//Set
     // vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
     //     unordered_set<int> s1(nums1.begin(), nums1.end());
     //     unordered_set<int> res;
@@ -12,6 +13,8 @@ public:
     //     return vector<int>(res.begin(), res.end());
     // }
 
+
+//Array
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
         unordered_set<int> res;
         int hash[1001] = {0};
