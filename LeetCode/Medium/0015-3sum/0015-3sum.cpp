@@ -1,5 +1,6 @@
 class Solution {
 public:
+//hashmap
     // vector<vector<int>> threeSum(vector<int>& nums) {
     //     vector<vector<int>> res;
     //     int n = nums.size();
@@ -47,7 +48,7 @@ public:
     //     return res;
     // }
 
-
+//双指针
     vector<vector<int>> threeSum(vector<int>& nums) {
         vector<vector<int>> res;
         int n = nums.size();
