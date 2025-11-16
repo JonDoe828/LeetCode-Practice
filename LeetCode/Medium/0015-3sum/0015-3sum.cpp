@@ -1,11 +1,11 @@
 class Solution {
 public:
-//hashmap
-    // vector<vector<int>> threeSum(vector<int>& nums) {
-    //     vector<vector<int>> res;
-    //     int n = nums.size();
-    //     if (n < 3)
-    //         return res;
+    // hashmap
+    //  vector<vector<int>> threeSum(vector<int>& nums) {
+    //      vector<vector<int>> res;
+    //      int n = nums.size();
+    //      if (n < 3)
+    //          return res;
 
     //     sort(nums.begin(), nums.end());
 
@@ -48,40 +48,43 @@ public:
     //     return res;
     // }
 
-//双指针
+    // 双指针
     vector<vector<int>> threeSum(vector<int>& nums) {
         vector<vector<int>> res;
         int n = nums.size();
-        if (n < 3) return res;
+        if (n < 3)
+            return res;
 
         sort(nums.begin(), nums.end());
 
         for (int i = 0; i < n; ++i) {
             // 剪枝：如果当前数已经 > 0，后面更大，不可能再有和为 0
-            if (nums[i] > 0) break;
+            if (nums[i] > 0)
+                break;
 
             // 对 i 去重：跳过相同的第一个数
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
 
             int left = i + 1;
             int right = n - 1;
 
             while (left < right) {
-                long long sum = (long long)nums[i] + nums[left] + nums[right];
-                if (sum == 0) {
-                    res.push_back({nums[i], nums[left], nums[right]});
-
-                    // 对 left 去重
-                    int leftVal = nums[left];
-                    while (left < right && nums[left] == leftVal) ++left;
-
-                    // 对 right 去重
-                    int rightVal = nums[right];
-                    while (left < right && nums[right] == rightVal) --right;
-                } else if (sum < 0) {
-                    ++left;
-                } else {
-                    --right;
+                if (nums[i] + nums[left] + nums[right] > 0)
+                    right--;
+                else if (nums[i] + nums[left] + nums[right] < 0)
+                    left++;
+                else {
+                    res.push_back(
+                        vector<int>{nums[i], nums[left], nums[right]});
+                    // 去重逻辑应该放在找到⼀个三元组之后，对b 和 c去重
+                    while (right > left && nums[right] == nums[right - 1])
+                        right--;
+                    while (right > left && nums[left] == nums[left + 1])
+                        left++;
+                    // 找到答案时，双指针同时收缩
+                    right--;
+                    left++;
                 }
             }
         }
