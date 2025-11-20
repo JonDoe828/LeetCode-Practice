@@ -21,21 +21,20 @@ public:
     // Patience sorting
 
     int lengthOfLIS(vector<int>& nums) {
-    vector<int> piles;              
-    for (int x : nums) {
-        int l = 0, r = piles.size();
-        while (l < r) {
-            int m = (l + r) >> 1;
-            if (piles[m] < x)
-                l = m + 1;
-            else
-                r = m;
+        int len = 0;
+        for (int x : nums) {
+            int l = 0, r = len;
+            while (l < r) {
+                int m = l + (r - l) / 2;
+                if (nums[m] >= x)
+                    r = m;
+                else
+                    l = m + 1;
+            }
+            nums[l] = x;
+            if (l == len)
+                len++;
         }
-        if (l == piles.size())      // 说明没找到 >= x 的堆顶，要新开一堆
-            piles.push_back(x);
-        else                        // 找到了第一个 >= x 的堆顶，替换之
-            piles[l] = x;
-    }
-    return piles.size();
+        return len;
     }
 };
