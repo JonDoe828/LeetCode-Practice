@@ -25,7 +25,7 @@ public:
         for (int x : nums) {
             int l = 0, r = len;
             while (l < r) {
-                int m = l + (r - l) / 2;
+                int m = (l + r) >> 1;
                 if (nums[m] >= x)
                     r = m;
                 else
