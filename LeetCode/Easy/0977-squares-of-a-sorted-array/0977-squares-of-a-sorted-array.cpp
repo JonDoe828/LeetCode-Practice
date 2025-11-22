@@ -21,11 +21,11 @@ public:
 
     vector<int> sortedSquares(vector<int>& nums) {
     int n = nums.size();
-    vector<int> res(n);   // 必须提前分配空间
+    vector<int> res(n);   
     int k = n - 1;
 
     int i = 0;
-    int j = n - 1;
+    int j = k;
 
     while (i <= j) {
         int left = nums[i] * nums[i];
