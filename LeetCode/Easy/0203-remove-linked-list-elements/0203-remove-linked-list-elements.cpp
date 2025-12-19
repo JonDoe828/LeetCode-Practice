@@ -18,7 +18,9 @@ public:
 
         while (cur->next != nullptr) {
             if (cur->next->val == val) {
+                ListNode* toDelete = cur->next;      // 先保存要删的节点
                 cur->next = cur->next->next;
+                delete toDelete;                      // 再释放内存
             } else {
                 cur = cur->next;
             }
