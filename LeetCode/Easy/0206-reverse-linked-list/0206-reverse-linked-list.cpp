@@ -16,10 +16,10 @@
 //         ListNode* prev = nullptr;
 //         ListNode* cur = head;
 //         while (cur) {
-//             ListNode* next = cur->next; // 1. 保存
+//             ListNode* temp = cur->next; // 1. 保存
 //             cur->next = prev;           // 2. 反转
 //             prev = cur;                 // 3. 移动
-//             cur = next;
+//             cur = temp;
 //         }
 //         return prev;
 //     }
