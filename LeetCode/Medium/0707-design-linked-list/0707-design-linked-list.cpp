@@ -12,6 +12,15 @@ public:
         _size = 0;
     }
 
+    ~MyLinkedList() {
+        LinkedNode* cur = _dummyHead;
+        while (cur) {
+            LinkedNode* next = cur->next;
+            delete cur;
+            cur = next;
+        }
+    }
+
     int get(int index) {
         if (index > (_size - 1) || index < 0) {
             return -1;
