@@ -10,38 +10,38 @@
  * right(right) {}
  * };
  */
-class Solution {
-public:
-    vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> res;
-
-        function<void(TreeNode*)> dfs = [&](TreeNode* node) {
-            if (!node)
-                return;
-            res.push_back(node->val);
-            dfs(node->left);
-            dfs(node->right);
-        };
-
-        dfs(root);
-        return res;
-    }
-};
-
-
 // class Solution {
 // public:
-//     vector<int> res;  
-
-//     void dfs(TreeNode* root) {
-//         if (!root) return;
-//         res.push_back(root->val);
-//         dfs(root->left);
-//         dfs(root->right);
-//     }
-
 //     vector<int> preorderTraversal(TreeNode* root) {
+//         vector<int> res;
+
+//         function<void(TreeNode*)> dfs = [&](TreeNode* node) {
+//             if (!node)
+//                 return;
+//             res.push_back(node->val);
+//             dfs(node->left);
+//             dfs(node->right);
+//         };
+
 //         dfs(root);
 //         return res;
 //     }
 // };
+
+
+class Solution {
+public:
+    vector<int> res;  
+
+    void dfs(TreeNode* root) {
+        if (!root) return;
+        res.push_back(root->val);
+        dfs(root->left);
+        dfs(root->right);
+    }
+
+    vector<int> preorderTraversal(TreeNode* root) {
+        dfs(root);
+        return res;
+    }
+};
