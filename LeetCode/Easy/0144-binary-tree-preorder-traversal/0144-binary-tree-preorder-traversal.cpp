@@ -28,20 +28,42 @@
 //     }
 // };
 
+// 递归
+//  class Solution {
+//  public:
+//      vector<int> res;
 
+//     void dfs(TreeNode* root) {
+//         if (!root) return;
+//         res.push_back(root->val);
+//         dfs(root->left);
+//         dfs(root->right);
+//     }
+
+//     vector<int> preorderTraversal(TreeNode* root) {
+//         dfs(root);
+//         return res;
+//     }
+// };
+
+// 迭代
 class Solution {
 public:
-    vector<int> res;  
-
-    void dfs(TreeNode* root) {
-        if (!root) return;
-        res.push_back(root->val);
-        dfs(root->left);
-        dfs(root->right);
-    }
-
     vector<int> preorderTraversal(TreeNode* root) {
-        dfs(root);
+        vector<int> res;
+        if (!root)
+            return res;
+        stack<TreeNode*> st;
+        st.push(root);
+        while (!st.empty()) {
+            TreeNode* node = st.top();
+            st.pop();
+            res.push_back(node->val); // 中
+            if (node->right)
+                st.push(node->right); // 右先入栈
+            if (node->left)
+                st.push(node->left); // 左后入栈
+        }
         return res;
     }
 };
