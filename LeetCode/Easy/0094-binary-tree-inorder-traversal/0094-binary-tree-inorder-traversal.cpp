@@ -29,19 +29,46 @@ public:
     // }
 
 
+//迭代法
+//     vector<int> inorderTraversal(TreeNode* root) {
+//     vector<int> res;
+//     stack<TreeNode*> st;
+//     TreeNode* cur = root;
+//     while (cur || !st.empty()) {
+//         if (cur) {
+//             st.push(cur);
+//             cur = cur->left;        // 一直向左访问
+//         } else {
+//             cur = st.top(); st.pop();
+//             res.push_back(cur->val); // 中
+//             cur = cur->right;        // 转向右子树
+//         }
+//     }
+//     return res;
+// }
 
-    vector<int> inorderTraversal(TreeNode* root) {
+
+vector<int> inorderTraversal(TreeNode* root) {
     vector<int> res;
     stack<TreeNode*> st;
-    TreeNode* cur = root;
-    while (cur || !st.empty()) {
-        if (cur) {
-            st.push(cur);
-            cur = cur->left;        // 一直向左访问
+    if (root) st.push(root);
+
+    while (!st.empty()) {
+        TreeNode* node = st.top();
+        st.pop();
+
+        if (node == nullptr) {
+            // 标记：现在该访问真正的节点了
+            node = st.top();
+            st.pop();
+            res.push_back(node->val);
         } else {
-            cur = st.top(); st.pop();
-            res.push_back(cur->val); // 中
-            cur = cur->right;        // 转向右子树
+            // 中序：左 → 中 → 右
+            // 入栈顺序 = 右 → 中 → 左 → null
+            if (node->right) st.push(node->right);
+            st.push(node);          // 中
+            st.push(nullptr);       // 标记
+            if (node->left) st.push(node->left);
         }
     }
     return res;
