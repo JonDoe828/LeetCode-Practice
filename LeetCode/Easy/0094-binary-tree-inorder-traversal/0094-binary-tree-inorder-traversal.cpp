@@ -30,6 +30,7 @@ public:
 
 
 //迭代法
+//中序专用：cur + stack
 //     vector<int> inorderTraversal(TreeNode* root) {
 //     vector<int> res;
 //     stack<TreeNode*> st;
