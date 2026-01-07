@@ -29,6 +29,8 @@ public:
         while (!que.empty()) {
             int size = que.size();
             vector<int> vec;
+            vec.reserve(size);
+
 
             for (int i = 0; i < size; i++) {
                 Node* node = que.front();
