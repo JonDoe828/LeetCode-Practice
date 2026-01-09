@@ -16,6 +16,7 @@ public:
 };
 */
 
+//额外空间
 class Solution {
 public:
     Node* connect(Node* root) {
@@ -45,3 +46,33 @@ public:
         return root;
     }
 };
+
+
+// class Solution {
+// public:
+//     Node* connect(Node* root) {
+//         queue<Node*> que;
+//         if (root != NULL) que.push(root);
+//         while (!que.empty()) {
+//             int size = que.size();
+//             Node* nodePre;
+//             Node* node;
+//             for (int i = 0; i < size; i++) {
+//                 if (i == 0) {
+//                     nodePre = que.front(); // Head of the layer
+//                     que.pop();
+//                     node = nodePre;
+//                 } else {
+//                     node = que.front();
+//                     que.pop();
+//                     nodePre->next = node; // Previous node points to the current node
+//                     nodePre = nodePre->next;
+//                 }
+//                 if (node->left) que.push(node->left);
+//                 if (node->right) que.push(node->right);
+//             }
+//             nodePre->next = NULL; // Last node of the layer points to NULL
+//         }
+//         return root;
+//     }
+// };
