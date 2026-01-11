@@ -42,6 +42,7 @@ public:
 
             // 下一层的起点就是 dummy.next
             cur = dummy.next;
+            tail->next = nullptr;
         }
         return root;
     }
