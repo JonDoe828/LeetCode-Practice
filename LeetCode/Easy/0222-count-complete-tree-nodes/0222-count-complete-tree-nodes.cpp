@@ -10,6 +10,8 @@
  * right(right) {}
  * };
  */
+
+//complete binary tree method
 class Solution {
 public:
     int getDepth(TreeNode* node) {
