@@ -2,13 +2,15 @@
 // class Solution {
 // public:
 //     int minimumCost(int n, vector<vector<int>>& connections) {
-//         // 建邻接矩阵
+//         // 建邻接矩阵 超时
 //         vector<vector<int>> grid(n + 1, vector<int>(n + 1, INT_MAX));
 //         for (auto& e : connections) {
 //             int u = e[0], v = e[1], w = e[2];
 //             grid[u][v] = w;
 //             grid[v][u] = w;
 //         }
+
+// 用邻接表
 
 //         vector<int> minDist(n + 1, INT_MAX);
 //         vector<bool> inMST(n + 1, false);
