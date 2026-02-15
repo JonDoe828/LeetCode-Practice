@@ -50,57 +50,40 @@
 class Solution {
 public:
     int minimumCost(int n, vector<vector<int>>& connections) {
+        using P = pair<int,int>; // (weight, node)
 
-        // 1️⃣ 建邻接表
         vector<vector<pair<int,int>>> adj(n + 1);
-
         for (auto &e : connections) {
-            int u = e[0];
-            int v = e[1];
-            int w = e[2];
-
+            int u = e[0], v = e[1], w = e[2];
             adj[u].push_back({v, w});
             adj[v].push_back({u, w});
         }
 
-        vector<int> minDist(n + 1, INT_MAX);
         vector<bool> inMST(n + 1, false);
+        priority_queue<P, vector<P>, greater<P>> pq;
 
-        minDist[1] = 0;  // 从1号点开始
+        // 从1开始
+        pq.push({0, 1});
 
-        int result = 0;
+        long long cost = 0;
+        int picked = 0;
 
-        for (int i = 1; i <= n; i++) {
+        while (!pq.empty() && picked < n) {
+            auto [w, u] = pq.top();
+            pq.pop();
 
-            int cur = -1;
-            int minVal = INT_MAX;
+            if (inMST[u]) continue;
 
-            // 2️⃣ 选当前离生成树最近的点
-            for (int v = 1; v <= n; v++) {
-                if (!inMST[v] && minDist[v] < minVal) {
-                    minVal = minDist[v];
-                    cur = v;
-                }
-            }
+            inMST[u] = true;
+            cost += w;
+            picked++;
 
-            // 如果选不到 → 不连通
-            if (cur == -1) return -1;
-
-            inMST[cur] = true;
-            result += minVal;
-
-            // 3️⃣ 用邻接表更新
-            for (auto &edge : adj[cur]) {
-                int next = edge.first;
-                int weight = edge.second;
-
-                if (!inMST[next] && weight < minDist[next]) {
-                    minDist[next] = weight;
-                }
+            for (auto [v, w2] : adj[u]) {
+                if (!inMST[v]) pq.push({w2, v});
             }
         }
 
-        return result;
+        return picked == n ? (int)cost : -1;
     }
 };
 
