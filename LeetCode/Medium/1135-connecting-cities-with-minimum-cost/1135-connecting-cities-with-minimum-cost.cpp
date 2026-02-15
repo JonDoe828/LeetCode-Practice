@@ -10,8 +10,6 @@
 //             grid[v][u] = w;
 //         }
 
-// 用邻接表
-
 //         vector<int> minDist(n + 1, INT_MAX);
 //         vector<bool> inMST(n + 1, false);
 
@@ -49,45 +47,103 @@
 //     }
 // };
 
-// Kruskal
 class Solution {
 public:
     int minimumCost(int n, vector<vector<int>>& connections) {
-        sort(connections.begin(), connections.end(),
-             [](const auto& a, const auto& b) { return a[2] < b[2]; });
 
-        vector<int> parent(n + 1), rankv(n + 1, 0);
-        for (int i = 1; i <= n; ++i)
-            parent[i] = i;
+        // 1️⃣ 建邻接表
+        vector<vector<pair<int,int>>> adj(n + 1);
 
-        auto find = [&](auto&& self, int x) -> int {
-            if (parent[x] != x)
-                parent[x] = self(self, parent[x]);
-            return parent[x];
-        };
+        for (auto &e : connections) {
+            int u = e[0];
+            int v = e[1];
+            int w = e[2];
 
-        auto unite = [&](int a, int b) -> bool {
-            int pa = find(find, a), pb = find(find, b);
-            if (pa == pb)
-                return false;
-            if (rankv[pa] < rankv[pb])
-                swap(pa, pb);
-            parent[pb] = pa;
-            if (rankv[pa] == rankv[pb])
-                rankv[pa]++;
-            return true;
-        };
+            adj[u].push_back({v, w});
+            adj[v].push_back({u, w});
+        }
 
-        long long cost = 0;
-        int used = 0;
-        for (auto& e : connections) {
-            if (unite(e[0], e[1])) {
-                cost += e[2];
-                used++;
-                if (used == n - 1)
-                    break;
+        vector<int> minDist(n + 1, INT_MAX);
+        vector<bool> inMST(n + 1, false);
+
+        minDist[1] = 0;  // 从1号点开始
+
+        int result = 0;
+
+        for (int i = 1; i <= n; i++) {
+
+            int cur = -1;
+            int minVal = INT_MAX;
+
+            // 2️⃣ 选当前离生成树最近的点
+            for (int v = 1; v <= n; v++) {
+                if (!inMST[v] && minDist[v] < minVal) {
+                    minVal = minDist[v];
+                    cur = v;
+                }
+            }
+
+            // 如果选不到 → 不连通
+            if (cur == -1) return -1;
+
+            inMST[cur] = true;
+            result += minVal;
+
+            // 3️⃣ 用邻接表更新
+            for (auto &edge : adj[cur]) {
+                int next = edge.first;
+                int weight = edge.second;
+
+                if (!inMST[next] && weight < minDist[next]) {
+                    minDist[next] = weight;
+                }
             }
         }
-        return used == n - 1 ? (int)cost : -1;
+
+        return result;
     }
 };
+
+
+// Kruskal
+// class Solution {
+// public:
+//     int minimumCost(int n, vector<vector<int>>& connections) {
+//         sort(connections.begin(), connections.end(),
+//              [](const auto& a, const auto& b) { return a[2] < b[2]; });
+
+//         vector<int> parent(n + 1), rankv(n + 1, 0);
+//         for (int i = 1; i <= n; ++i)
+//             parent[i] = i;
+
+//         auto find = [&](auto&& self, int x) -> int {
+//             if (parent[x] != x)
+//                 parent[x] = self(self, parent[x]);
+//             return parent[x];
+//         };
+
+//         auto unite = [&](int a, int b) -> bool {
+//             int pa = find(find, a), pb = find(find, b);
+//             if (pa == pb)
+//                 return false;
+//             if (rankv[pa] < rankv[pb])
+//                 swap(pa, pb);
+//             parent[pb] = pa;
+//             if (rankv[pa] == rankv[pb])
+//                 rankv[pa]++;
+//             return true;
+//         };
+
+//         long long cost = 0;
+//         int used = 0;
+//         for (auto& e : connections) {
+//             if (unite(e[0], e[1])) {
+//                 cost += e[2];
+//                 used++;
+//                 if (used == n - 1)
+//                     break;
+//             }
+//         }
+//         return used == n - 1 ? (int)cost : -1;
+//     }
+// };
