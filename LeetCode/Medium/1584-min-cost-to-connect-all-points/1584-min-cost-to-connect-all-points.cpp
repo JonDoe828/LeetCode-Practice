@@ -2,8 +2,8 @@ class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = (int)points.size();
-        vector<int> minDist(n, INT_MAX);
-        vector<bool> inMST(n, false);
+        vector<int> minDist(n, INT_MAX); // 最小距离
+        vector<bool> inMST(n, false);    // 生成树合集
 
         minDist[0] = 0;
 
@@ -11,7 +11,7 @@ public:
 
         for (int i = 0; i < n; ++i) {
             // 1) 选一个当前未加入MST且minDist最小的点
-            int cur = -1;
+            int cur = -1; // 哨兵值
             int curMin = INT_MAX;
             for (int v = 0; v < n; ++v) {
                 if (!inMST[v] && minDist[v] < curMin) {
@@ -20,11 +20,11 @@ public:
                 }
             }
 
-            // cur 一定能选到（完全图一定连通）
+            // 2) cur 一定能选到（完全图一定连通）
             inMST[cur] = true;
             result += curMin;
 
-            // 2) 用cur去更新其他点到MST的最小距离（最小边权）
+            // 3) 用cur去更新其他点到MST的最小距离（最小边权）
             for (int v = 0; v < n; ++v) {
                 if (!inMST[v]) {
                     int w = abs(points[cur][0] - points[v][0]) +
