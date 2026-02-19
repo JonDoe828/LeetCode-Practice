@@ -8,10 +8,13 @@ public:
 
     vector<vector<int>> reconstructQueue(vector<vector<int>>& people) {
         sort(people.begin(), people.end(), cmp);
-        vector<vector<int>> ans;
-        for (auto& p : people) {
-            ans.insert(ans.begin() + p[1], p); // 插到k位置
+        list<vector<int>> que;
+        for (auto &p : people) {
+            int pos = p[1];
+            auto it = que.begin();
+            while (pos--) ++it;
+            que.insert(it, p);
         }
-        return ans;
+        return vector<vector<int>>(que.begin(), que.end());
     }
 };
