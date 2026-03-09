@@ -27,33 +27,57 @@
 class Solution {
 public:
     int minMeetingRooms(vector<vector<int>>& intervals) {
+        vector<pair<int, int>> events;
 
-        int n = intervals.size();
-
-        vector<int> start(n), end(n);
-
-        for (int i = 0; i < n; i++) {
-            start[i] = intervals[i][0];
-            end[i] = intervals[i][1];
+        for (auto& it : intervals) {
+            events.push_back({it[0], 1});   // start
+            events.push_back({it[1], -1});  // end
         }
 
-        sort(start.begin(), start.end());
-        sort(end.begin(), end.end());
+        sort(events.begin(), events.end(), [](auto& a, auto& b) {
+            if (a.first == b.first) return a.second < b.second; 
+            return a.first < b.first;
+        });
 
-        int rooms = 0, maxRooms = 0;
-        int i = 0, j = 0;
-
-        while (i < n) {
-            if (start[i] < end[j]) {
-                rooms++;
-                i++;
-            } else {
-                rooms--;
-                j++;
-            }
-            maxRooms = max(maxRooms, rooms);
+        int count = 0, ans = 0;
+        for (auto& [time, delta] : events) {
+            count += delta;
+            ans = max(ans, count);
         }
-
-        return maxRooms;
+        return ans;
     }
 };
+
+// class Solution {
+// public:
+//     int minMeetingRooms(vector<vector<int>>& intervals) {
+
+//         int n = intervals.size();
+
+//         vector<int> start(n), end(n);
+
+//         for (int i = 0; i < n; i++) {
+//             start[i] = intervals[i][0];
+//             end[i] = intervals[i][1];
+//         }
+
+//         sort(start.begin(), start.end());
+//         sort(end.begin(), end.end());
+
+//         int rooms = 0, maxRooms = 0;
+//         int i = 0, j = 0;
+
+//         while (i < n) {
+//             if (start[i] < end[j]) {
+//                 rooms++;
+//                 i++;
+//             } else {
+//                 rooms--;
+//                 j++;
+//             }
+//             maxRooms = max(maxRooms, rooms);
+//         }
+
+//         return maxRooms;
+//     }
+// };
