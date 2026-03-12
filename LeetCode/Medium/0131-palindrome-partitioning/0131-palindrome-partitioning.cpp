@@ -39,44 +39,40 @@
 // };
 
 class Solution {
-private:
-    vector<vector<string>> result;
-    vector<string> path;
-
-    void backtracking(const string& s, int startIndex, const vector<vector<bool>>& dp) {
-        if (startIndex == s.size()) {
-            result.push_back(path);
-            return;
-        }
-
-        for (int i = startIndex; i < s.size(); i++) {
-            if (dp[startIndex][i]) {
-                path.push_back(s.substr(startIndex, i - startIndex + 1));
-                backtracking(s, i + 1, dp);
-                path.pop_back();
-            }
-        }
-    }
-
 public:
     vector<vector<string>> partition(string s) {
         int n = s.size();
+        
         vector<vector<bool>> dp(n, vector<bool>(n, false));
-
-        // 预处理回文表
+        
+        // 预处理回文
         for (int i = n - 1; i >= 0; i--) {
             for (int j = i; j < n; j++) {
-                if (s[i] == s[j]) {
-                    if (j - i <= 1) {
-                        dp[i][j] = true;
-                    } else {
-                        dp[i][j] = dp[i + 1][j - 1];
-                    }
+                if (s[i] == s[j] && (j - i <= 2 || dp[i+1][j-1])) {
+                    dp[i][j] = true;
                 }
             }
         }
 
-        backtracking(s, 0, dp);
-        return result;
+        vector<vector<string>> res;
+        vector<string> path;
+
+        function<void(int)> dfs = [&](int start) {
+            if (start == n) {
+                res.push_back(path);
+                return;
+            }
+
+            for (int i = start; i < n; i++) {
+                if (!dp[start][i]) continue;
+
+                path.push_back(s.substr(start, i - start + 1));
+                dfs(i + 1);
+                path.pop_back();
+            }
+        };
+
+        dfs(0);
+        return res;
     }
 };
