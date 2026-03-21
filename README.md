@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -49,5 +50,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0093-restore-ip-addresses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
