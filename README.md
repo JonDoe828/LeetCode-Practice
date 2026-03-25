@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 <!---LeetCode Topics End-->
