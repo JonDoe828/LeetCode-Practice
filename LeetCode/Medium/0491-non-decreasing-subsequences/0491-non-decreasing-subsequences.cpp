@@ -10,7 +10,6 @@ public:
 
         unordered_set<int> used;
         for (int i = startIndex; i < n.size(); i++) {
-
             if (used.find(n[i]) != used.end()) {
                 continue;
             }
