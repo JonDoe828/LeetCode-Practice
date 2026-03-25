@@ -13,11 +13,12 @@ public:
             if (used.find(n[i]) != used.end()) {
                 continue;
             }
-            used.insert(n[i]);
 
             if (!path.empty() && n[i] < path.back()) {
                 continue;
             }
+
+            used.insert(n[i]);
 
             path.push_back(n[i]);
             backtracking(n, i + 1);
