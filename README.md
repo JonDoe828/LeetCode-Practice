@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
@@ -74,5 +76,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
