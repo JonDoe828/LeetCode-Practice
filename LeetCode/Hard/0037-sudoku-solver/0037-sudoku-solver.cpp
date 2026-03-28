@@ -12,14 +12,14 @@ public:
 
                 int box = (row / 3) * 3 + (col / 3);
 
-                for (int k = 1; k <= 9; k++) {
-                    if (!rowUsed[row][k] && !colUsed[col][k] && !boxUsed[box][k]) {
-                        board[row][col] = k + '0';
-                        rowUsed[row][k] = colUsed[col][k] = boxUsed[box][k] = true;
+                for (int num = 1; num <= 9; num++) {
+                    if (!rowUsed[row][num] && !colUsed[col][num] && !boxUsed[box][num]) {
+                        board[row][col] = num + '0';
+                        rowUsed[row][num] = colUsed[col][num] = boxUsed[box][num] = true;
                         if (backtracking(board))
                             return true;
                         board[row][col] = '.';
-                        rowUsed[row][k] = colUsed[col][k] = boxUsed[box][k] = false;
+                        rowUsed[row][num] = colUsed[col][num] = boxUsed[box][num] = false;
                     }
                 }
                 return false; 
