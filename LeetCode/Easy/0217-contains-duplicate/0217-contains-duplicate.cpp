@@ -4,7 +4,7 @@ public:
         unordered_set<int> set;
         for (int i : nums) {
 
-            if (set.find(i) != set.end()) {
+            if (!set.insert(i).second) {
                 return true;
             }
             set.insert(i);
