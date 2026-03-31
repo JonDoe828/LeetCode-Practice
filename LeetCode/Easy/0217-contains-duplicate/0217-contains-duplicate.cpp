@@ -1,3 +1,4 @@
+//hash
 // class Solution {
 // public:
 //     bool containsDuplicate(vector<int>& nums) {
@@ -13,7 +14,7 @@
 //     }
 // };
 
-
+//sort
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
