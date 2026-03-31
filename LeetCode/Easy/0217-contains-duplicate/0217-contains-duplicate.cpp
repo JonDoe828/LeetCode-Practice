@@ -8,7 +8,6 @@ public:
             if (!set.insert(i).second) {
                 return true;
             }
-            set.insert(i);
         }
         return false;
     }
