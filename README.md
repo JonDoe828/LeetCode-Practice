@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -70,12 +71,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
+| [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0093-restore-ip-addresses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
+| [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Bit Manipulation
