@@ -7,7 +7,7 @@ public:
 
         while (i < n1 || j < n2) {
             if (i < n1) {
-                res+= word1[i++];
+                res += word1[i++];
             }
             if (j < n2) {
                 res.push_back(word2[j]);
