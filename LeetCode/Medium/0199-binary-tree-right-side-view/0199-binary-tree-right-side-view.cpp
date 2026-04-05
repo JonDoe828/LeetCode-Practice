@@ -13,32 +13,31 @@
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
-        queue<TreeNode*> que;
-        if (root != NULL)
-            que.push(root);
-        vector<int> result;
-        while (!que.empty()) {
-            int size = que.size();
+        vector<int> res;
+        if (root == nullptr)
+            return res;
+
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while (!q.empty()) {
+            int size = q.size();
+
             for (int i = 0; i < size; i++) {
-                TreeNode* node = que.front();
-                que.pop();
-                if (i == (size - 1))
-                    result.push_back(node->val); // Add the last element of each
-                                                 // level to the result
+                TreeNode* node = q.front();
+                q.pop();
+
+                if (i == size - 1) {
+                    res.push_back(node->val);
+                }
+
                 if (node->left)
-                    que.push(node->left);
+                    q.push(node->left);
                 if (node->right)
-                    que.push(node->right);
-
-                // if (i == 0)
-                //     res.push_back(node->val); // 本层第一个
-
-                // if (node->right)
-                //     q.push(node->right);
-                // if (node->left)
-                //     q.push(node->left);
+                    q.push(node->right);
             }
         }
-        return result;
+
+        return res;
     }
 };
