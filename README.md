@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Bit Manipulation
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [2751-robot-collisions](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 ## Math
 | Problem Name | Difficulty |
