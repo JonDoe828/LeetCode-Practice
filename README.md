@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0695-max-area-of-island](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0739-daily-temperatures](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [2751-robot-collisions](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [2751-robot-collisions](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -156,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
