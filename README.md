@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0695-max-area-of-island](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0994-rotting-oranges](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1352-product-of-the-last-k-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0200-number-of-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [0994-rotting-oranges](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
