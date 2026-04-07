@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
@@ -209,4 +210,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
