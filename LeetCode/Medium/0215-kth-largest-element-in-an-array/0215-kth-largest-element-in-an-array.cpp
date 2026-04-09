@@ -1,6 +1,9 @@
 class Solution {
 public:
     int partition(vector<int>& nums, int left, int right) {
+        int randomIndex = left + rand() % (right - left + 1);
+        swap(nums[randomIndex], nums[right]);
+
         int pivot = nums[right];
         int i = left;
 
