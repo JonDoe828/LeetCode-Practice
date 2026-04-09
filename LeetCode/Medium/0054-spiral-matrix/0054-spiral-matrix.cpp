@@ -16,7 +16,6 @@ public:
             top++;
 
             // 2. 上 -> 下
-
             for (int j = top; j <= bottom; j++) {
                 res.push_back(matrix[j][right]);
             }
