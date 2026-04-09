@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0068-text-justification](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0078-subsets](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0068-text-justification](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0093-restore-ip-addresses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0068-text-justification](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1041-robot-bounded-in-circle/) | Medium |
