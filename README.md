@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0338-counting-bits](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0068-text-justification](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0093-restore-ip-addresses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
