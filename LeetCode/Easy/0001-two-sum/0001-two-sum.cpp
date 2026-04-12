@@ -5,8 +5,9 @@ public:
 
         for (int i = 0; i < nums.size(); i++) {
             int complement = target - nums[i];
-            if (mp.count(complement)) {
-                return {mp[complement], i};
+            auto it = mp.find(complement);
+            if (it != mp.end()) {
+                return {it->second, i};
             }
             mp[nums[i]] = i;
         }
