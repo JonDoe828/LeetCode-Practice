@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1041-robot-bounded-in-circle/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Medium |
@@ -231,11 +232,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0706-design-hashmap](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
