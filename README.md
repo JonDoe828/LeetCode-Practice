@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0037-sudoku-solver](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0014-longest-common-prefix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0068-text-justification](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0093-restore-ip-addresses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
@@ -266,4 +268,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
