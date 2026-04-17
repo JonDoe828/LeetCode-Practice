@@ -2,13 +2,13 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n = nums.size();
-        unordered_map<int, int> mp;
+        vector<int> hash(n + 1, 0);
         for (int x : nums) {
-            mp[x] = 1;
+            hash[x] = 1;
         }
 
         for (int i = 0; i <= n; i++) {
-            if (mp[i] == 0) {
+            if (hash[i] == 0) {
                 return i;
             }
         }
