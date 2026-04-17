@@ -14,7 +14,7 @@ public:
         ListNode* dummy = new ListNode(0);
         ListNode* cur = dummy;
 
-        while (list1 != nullptr && list2 != nullptr) {
+        while (list1 && list2) {
             if (list1->val <= list2->val) {
                 cur->next = list1;
                 list1 = list1->next;
