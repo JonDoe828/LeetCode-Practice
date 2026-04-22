@@ -5,8 +5,6 @@ public:
         int m = grid[0].size();
         vector<vector<int>> dp(n + 1, vector<int>(m, 0));
 
-        vector<int> ans;
-
         dp[0][0] = grid[0][0];
 
         for (int i = 1; i < n; i++) {
