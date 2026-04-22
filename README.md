@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0400-nth-digit](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0400-nth-digit/) | Medium |
