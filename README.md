@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
