@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0400-nth-digit](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0400-nth-digit/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1041-robot-bounded-in-circle/) | Medium |
