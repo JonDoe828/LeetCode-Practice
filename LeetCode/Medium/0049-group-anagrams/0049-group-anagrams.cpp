@@ -6,22 +6,14 @@ public:
         unordered_map<string, vector<string>> mp;
 
         for (string s : strs) {
-            vector<int> cnt(26, 0);
-            for (char c : s) {
-                cnt[c - 'a']++;
-            }
-
-            string key;
-            for (int x : cnt) {
-                key += to_string(x) + "#";
-            }
-
-            mp[key].push_back(s);
+            string key = s;               // 拷贝一份
+            sort(key.begin(), key.end()); // 排序后作为分组标识
+            mp[key].push_back(s);         // 放进去的还是原串
         }
 
         vector<vector<string>> res;
-        for (auto& [k, v] : mp) {
-            res.push_back(v);
+        for (auto& [key, group] : mp) {
+            res.push_back(group);
         }
         return res;
     }
