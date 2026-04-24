@@ -18,11 +18,11 @@ public:
             if (start[i] < end[j]) {
                 room++;
                 i++;
+                ans = max(ans, room);
             } else {
                 room--;
                 j++;
             }
-            ans = max(ans, room);
         }
         return ans;
     }
