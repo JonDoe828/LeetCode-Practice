@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1041-robot-bounded-in-circle/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0155-min-stack](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0394-decode-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [2751-robot-collisions](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 ## Simulation
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
