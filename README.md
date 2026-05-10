@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0179-largest-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## String
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1041-robot-bounded-in-circle/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [2751-robot-collisions](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 ## Simulation
