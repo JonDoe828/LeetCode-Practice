@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
