@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0221-maximal-square](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
 | [0252-meeting-rooms](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
+| [0221-maximal-square](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
 | [0338-counting-bits](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0221-maximal-square](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
 | [0695-max-area-of-island](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
