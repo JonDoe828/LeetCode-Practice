@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0221-maximal-square](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0252-meeting-rooms](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Medium |
