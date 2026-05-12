@@ -25,18 +25,23 @@ public:
     }
 
     void put(int key, int value) {
-        if (get(key) != -1) {
-            hashMap_[key].first = value;
+        auto it = hashMap_.find(key);
+
+        if (it != hashMap_.end()) {
+            keyList_.erase(it->second.second);
+            keyList_.push_front(key);
+
+            hashMap_[key] = make_pair(value, keyList_.begin());
             return;
         }
-        if (hashMap_.size() < capacity_) {
-            insert(key, value);
-        } else {
+
+        if (hashMap_.size() == capacity_) {
             int removeKey = keyList_.back();
             keyList_.pop_back();
             hashMap_.erase(removeKey);
-            insert(key, value);
         }
+
+        insert(key, value);
     }
 };
 
