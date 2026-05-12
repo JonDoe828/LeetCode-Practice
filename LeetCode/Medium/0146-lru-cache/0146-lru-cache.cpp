@@ -36,9 +36,8 @@ public:
         }
 
         if (hashMap_.size() == capacity_) {
-            int removeKey = keyList_.back();
+            hashMap_.erase(keyList_.back());
             keyList_.pop_back();
-            hashMap_.erase(removeKey);
         }
 
         insert(key, value);
