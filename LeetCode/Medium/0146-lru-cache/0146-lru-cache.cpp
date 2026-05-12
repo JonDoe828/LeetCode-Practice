@@ -3,9 +3,9 @@ class LRUCache {
     list<int> keyList_;
     unordered_map<int, pair<int, list<int>::iterator>> hashMap_;
 
-    void Insert(int key, int value) {
-        keyList_.push_back(key);
-        hashMap_[key] = make_pair(value, --keyList_.end());
+    void insert(int key, int value) {
+        keyList_.push_front(key);
+        hashMap_[key] = make_pair(value, keyList_.begin());
     }
 
 public:
@@ -13,13 +13,15 @@ public:
 
     int get(int key) {
         auto it = hashMap_.find(key);
-        if (it != hashMap_.end()) {
-            keyList_.erase(it->second.second);
-            keyList_.push_back(key);
-            hashMap_[key].second = (--keyList_.end());
-            return it->second.first;
+        if (it == hashMap_.end()) {
+            return -1;
         }
-        return -1;
+
+        keyList_.erase(it->second.second);
+        keyList_.push_front(key);
+        hashMap_[key].second = (keyList_.begin());
+
+        return it->second.first;
     }
 
     void put(int key, int value) {
@@ -28,12 +30,12 @@ public:
             return;
         }
         if (hashMap_.size() < capacity_) {
-            Insert(key, value);
+            insert(key, value);
         } else {
-            int removeKey = keyList_.front();
-            keyList_.pop_front();
+            int removeKey = keyList_.back();
+            keyList_.pop_back();
             hashMap_.erase(removeKey);
-            Insert(key, value);
+            insert(key, value);
         }
     }
 };
@@ -44,4 +46,3 @@ public:
  * int param_1 = obj->get(key);
  * obj->put(key,value);
  */
-
