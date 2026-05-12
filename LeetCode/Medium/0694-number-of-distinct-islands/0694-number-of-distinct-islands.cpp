@@ -1,19 +1,17 @@
 class Solution {
 public:
-    vector<pair<int, int>> shape;
+    int m, n;
     set<vector<pair<int, int>>> shapes;
 
     void dfs(vector<vector<int>>& grid, int x, int y, int baseX, int baseY,
              vector<pair<int, int>>& shape) {
-        int m = grid.size();
-        int n = grid[0].size();
 
         if (x < 0 || x >= m || y < 0 || y >= n)
             return;
         if (grid[x][y] == 0)
             return;
 
-        grid[x][y] = 0; // 标记访问过，直接淹掉
+        grid[x][y] = 0;
 
         shape.push_back({x - baseX, y - baseY});
 
@@ -29,13 +27,13 @@ public:
 
     int numDistinctIslands(vector<vector<int>>& grid) {
 
-        int m = grid.size(), n = grid[0].size();
+        m = grid.size(), n = grid[0].size();
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 1) {
-                    vector<pair<int, int>> shape; 
-                    dfs(grid, i, j, i, j, shape); 
+                    vector<pair<int, int>> shape;
+                    dfs(grid, i, j, i, j, shape);
                     shapes.insert(shape);
                 }
             }
