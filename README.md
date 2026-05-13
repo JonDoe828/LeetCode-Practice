@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [0886-possible-bipartition](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0886-possible-bipartition/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [0886-possible-bipartition](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0886-possible-bipartition/) | Medium |
 | [0994-rotting-oranges](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [0886-possible-bipartition](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0886-possible-bipartition/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0694-number-of-distinct-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0694-number-of-distinct-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0886-possible-bipartition](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0886-possible-bipartition/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
