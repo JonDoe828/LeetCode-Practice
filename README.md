@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0739-daily-temperatures](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0994-rotting-oranges](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0694-number-of-distinct-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0694-number-of-distinct-islands/) | Medium |
 | [0706-design-hashmap](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
