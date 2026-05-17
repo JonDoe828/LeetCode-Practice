@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0252-meeting-rooms](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
+| [0242-valid-anagram](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
