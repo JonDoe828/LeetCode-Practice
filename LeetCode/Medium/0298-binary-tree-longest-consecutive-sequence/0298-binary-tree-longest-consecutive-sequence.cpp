@@ -35,3 +35,26 @@ public:
         return ans;
     }
 };
+
+// int main() {
+//     /*
+//             1
+//              \
+//               3
+//              / \
+//             2   4
+//                  \
+//                   5
+//     */
+
+//     TreeNode* root = new TreeNode(1);
+//     root->right = new TreeNode(3);
+//     root->right->left = new TreeNode(2);
+//     root->right->right = new TreeNode(4);
+//     root->right->right->right = new TreeNode(5);
+
+//     Solution solution;
+//     cout << solution.longestConsecutive(root) << endl;  // 3
+
+//     return 0;
+// }
