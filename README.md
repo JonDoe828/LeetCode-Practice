@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0043-multiply-strings](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0068-text-justification](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0068-text-justification](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
+| [0043-multiply-strings](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
