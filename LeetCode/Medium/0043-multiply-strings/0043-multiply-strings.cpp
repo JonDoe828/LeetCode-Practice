@@ -17,7 +17,7 @@ public:
                 int sum = mul + res[p2];
 
                 res[p2] = sum % 10;
-                res[p1] += sum / 10;
+                res[p1] += sum / 10;  //比如 15 / 10 = 1
             }
         }
         string ans;
