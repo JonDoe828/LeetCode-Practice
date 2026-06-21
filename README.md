@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0694-number-of-distinct-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0694-number-of-distinct-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0179-largest-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Sorting
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0252-meeting-rooms](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0621-task-scheduler](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0694-number-of-distinct-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0694-number-of-distinct-islands/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [2751-robot-collisions](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -223,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0694-number-of-distinct-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0694-number-of-distinct-islands/) | Medium |
 | [0706-design-hashmap](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
@@ -424,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0621-task-scheduler](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
