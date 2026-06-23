@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         vector<char> seen(n + 1, 0);
         vector<int> ans;
-        ans.reserve(n);
+ 
 
         for (int x : nums) {
             seen[x] = 1;
