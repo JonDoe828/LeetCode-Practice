@@ -14,32 +14,33 @@ public:
         ListNode* prev = nullptr;
         ListNode* cur = head;
 
-        while (cur != nullptr) {
+        while (cur) {
             ListNode* next = cur->next;
             cur->next = prev;
             prev = cur;
             cur = next;
         }
-
         return prev;
     }
 
     bool isPalindrome(ListNode* head) {
         if (head == nullptr || head->next == nullptr)
             return true;
+
         ListNode* slow = head;
         ListNode* fast = head;
 
-        // 找中点
         while (fast != nullptr && fast->next != nullptr) {
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        // 反转后半段
+        if (fast != nullptr) {
+            slow = slow->next;
+        }
+
         ListNode* second = reverseList(slow);
 
-        // 比较前半段和后半段
         ListNode* first = head;
         while (second != nullptr) {
             if (first->val != second->val) {
