@@ -35,6 +35,10 @@ public:
             fast = fast->next->next;
         }
 
+        if (fast != nullptr) {
+            slow = slow->next;
+        }
+
         ListNode* second = reverseList(slow);
 
         ListNode* first = head;
