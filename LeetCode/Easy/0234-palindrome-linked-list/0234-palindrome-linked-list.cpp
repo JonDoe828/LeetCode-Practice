@@ -35,6 +35,7 @@ public:
             fast = fast->next->next;
         }
 
+        //偶数情况，跳过中间的从下一个开始判断
         if (fast != nullptr) {
             slow = slow->next;
         }
