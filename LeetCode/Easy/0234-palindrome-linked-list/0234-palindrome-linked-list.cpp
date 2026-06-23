@@ -24,7 +24,7 @@ public:
     }
 
     bool isPalindrome(ListNode* head) {
-        if (head == nullptr || head->next == nullptr)
+        if (head == nullptr || head->next == nullptr) //链表长度为 0 或 1 的特殊情况
             return true;
 
         ListNode* slow = head;
@@ -33,10 +33,6 @@ public:
         while (fast != nullptr && fast->next != nullptr) {
             slow = slow->next;
             fast = fast->next->next;
-        }
-
-        if (fast != nullptr) {
-            slow = slow->next;
         }
 
         ListNode* second = reverseList(slow);
