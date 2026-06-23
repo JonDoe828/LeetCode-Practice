@@ -5,8 +5,14 @@ public:
         vector<int> ans;
 
         for (int i = 0; i < m; i++) {
-            int x = abs(nums[i]);
-            nums[x - 1] = -abs(nums[x - 1]);
+            int x = nums[i];
+            if (x < 0)
+                x = -x;
+
+            int idx = x - 1;
+            if (nums[idx] > 0) {
+                nums[idx] = -nums[idx];
+            }
         }
 
         for (int i = 0; i < m; i++) {
