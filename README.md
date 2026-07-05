@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0706-design-hashmap](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
