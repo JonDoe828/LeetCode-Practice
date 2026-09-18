@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0100-same-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
@@ -363,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
