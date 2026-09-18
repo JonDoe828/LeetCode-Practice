@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0093-restore-ip-addresses/) | Medium |
+| [0125-valid-palindrome](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
