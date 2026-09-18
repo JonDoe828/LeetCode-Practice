@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0694-number-of-distinct-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0694-number-of-distinct-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0694-number-of-distinct-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0694-number-of-distinct-islands/) | Medium |
 | [0706-design-hashmap](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 ## Divide and Conquer
