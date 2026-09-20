@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0994-rotting-oranges](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
+| [1046-last-stone-weight](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1352-product-of-the-last-k-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [2751-robot-collisions](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1046-last-stone-weight](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
