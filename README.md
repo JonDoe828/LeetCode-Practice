@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1046-last-stone-weight](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 ## Prefix Sum
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0298-binary-tree-longest-consecutive-sequence/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,12 +394,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 ## Linked List
@@ -474,4 +479,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
