@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0057-insert-interval](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0068-text-justification/) | Hard |
 | [0075-sort-colors](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
