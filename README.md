@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0694-number-of-distinct-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0694-number-of-distinct-islands/) | Medium |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0298-binary-tree-longest-consecutive-sequence/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -484,5 +487,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0538-convert-bst-to-greater-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
