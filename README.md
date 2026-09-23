@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0400-nth-digit](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0400-nth-digit/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/1235-maximum-profit-in-job-scheduling/) | Hard |
 ## Dynamic Programming
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0461-hamming-distance/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
@@ -493,4 +497,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0538-convert-bst-to-greater-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
