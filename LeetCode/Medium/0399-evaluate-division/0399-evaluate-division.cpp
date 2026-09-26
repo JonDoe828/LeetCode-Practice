@@ -7,7 +7,8 @@ public:
                                 vector<vector<string>>& queries) {
 
         vector<double> ans;
-        // 1. 建图
+
+        // 1. build graph
         for (int i = 0; i < equations.size(); i++) {
             string a = equations[i][0];
             string b = equations[i][1];
@@ -16,6 +17,7 @@ public:
             graph[a].push_back({b, val});
             graph[b].push_back({a, 1.0 / val});
         }
+        
         // 2. 一个个处理 query
         for (int i = 0; i < queries.size(); i++) {
             string start = queries[i][0];
