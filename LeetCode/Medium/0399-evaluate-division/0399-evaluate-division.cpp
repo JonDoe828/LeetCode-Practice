@@ -20,18 +20,18 @@ public:
 
         // 2. queries
         for (int i = 0; i < queries.size(); i++) {
-            string start = queries[i][0];
-            string end = queries[i][1];
+            string src = queries[i][0];
+            string dst = queries[i][1];
 
-            if (graph.find(start) == graph.end() ||
-                graph.find(end) == graph.end()) {
+            if (graph.find(src) == graph.end() ||
+                graph.find(dst) == graph.end()) {
                 ans.push_back(-1.0);
                 continue;
             }
 
             unordered_set<string> visited;
 
-            double res = dfs(start, end, 1.0, visited);
+            double res = dfs(src, dst, 1.0, visited);
 
             ans.push_back(res);
         }
