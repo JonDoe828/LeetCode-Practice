@@ -21,6 +21,7 @@ public:
 
                 if ((m + n) % 2 == 1)
                     return max(l1, l2);
+                    
                 return (max(l1, l2) + min(r1, r2)) / 2.0;
 
             } else if (l1 > r2) {
