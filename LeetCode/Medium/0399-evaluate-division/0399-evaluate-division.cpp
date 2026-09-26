@@ -17,8 +17,8 @@ public:
             graph[a].push_back({b, val});
             graph[b].push_back({a, 1.0 / val});
         }
-        
-        // 2. 一个个处理 query
+
+        // 2. queries
         for (int i = 0; i < queries.size(); i++) {
             string start = queries[i][0];
             string end = queries[i][1];
