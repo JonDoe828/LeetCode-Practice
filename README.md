@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
