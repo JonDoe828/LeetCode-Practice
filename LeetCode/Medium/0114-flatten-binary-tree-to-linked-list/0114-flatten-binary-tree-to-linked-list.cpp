@@ -17,7 +17,6 @@ public:
             return;
 
         if (root->left != nullptr) {
-
             TreeNode* temp = root->right;
             root->right = root->left;
 
