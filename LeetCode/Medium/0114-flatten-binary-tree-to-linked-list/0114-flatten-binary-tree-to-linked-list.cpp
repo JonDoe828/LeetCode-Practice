@@ -30,7 +30,6 @@ public:
 
         p->right = temp;
 
-        flatten(root->left);
         flatten(root->right);
     }
 };
