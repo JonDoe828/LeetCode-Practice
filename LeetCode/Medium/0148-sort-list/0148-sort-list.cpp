@@ -22,11 +22,11 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
-        ListNode* mid = slow->next;
+        ListNode* head2 = slow->next;
         slow->next = nullptr;
 
         ListNode* left = sortList(head);
-        ListNode* right = sortList(mid);
+        ListNode* right = sortList(head2);
         return merge(left, right);
     }
 
