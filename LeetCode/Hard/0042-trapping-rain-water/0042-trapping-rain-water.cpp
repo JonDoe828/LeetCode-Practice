@@ -10,10 +10,10 @@ public:
             leftMax = max(leftMax, height[left]);
             rightMax = max(rightMax, height[right]);
             if (leftMax < rightMax) {
-                ans = ans + min(leftMax, rightMax) - height[left];
+                ans += leftMax - height[left];
                 left++;
             } else {
-                ans = ans + min(leftMax, rightMax) - height[right];
+                ans += rightMax - height[right];
                 right--;
             }
         }
