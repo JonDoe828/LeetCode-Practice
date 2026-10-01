@@ -22,7 +22,7 @@ public:
 
     void backtrack(int idx, int left, int right, int open, bool prevDeleted,
                    string& path) {
-        if (left + right > s.size() - idx)
+        if (left + right > s.size() - idx) // 优化二：剪枝
             return;
 
         if (idx == s.size()) {
@@ -34,6 +34,7 @@ public:
 
         char c = s[idx];
 
+        // 能删的前提：是这串的第一个，或者前一个相同字符也删了
         bool canDelete = (idx == 0 || s[idx] != s[idx - 1] || prevDeleted);
 
         // 选择一：删掉 c（只对括号，且还有预算）
