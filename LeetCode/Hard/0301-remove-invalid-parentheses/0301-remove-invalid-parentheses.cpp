@@ -22,7 +22,7 @@ public:
 
     void backtrack(int idx, int left, int right, int open, bool prevDeleted,
                    string& path) {
-        if (left + right > s.size() - idx) // 优化二：剪枝
+        if (left + right > s.size() - idx) // 优化二：剪枝  剩下的字符数都不够删了 这条路不可能成功，直接返回
             return;
 
         if (idx == s.size()) {
