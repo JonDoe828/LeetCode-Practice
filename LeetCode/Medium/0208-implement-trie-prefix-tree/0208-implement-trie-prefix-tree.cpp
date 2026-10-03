@@ -20,27 +20,24 @@ public:
     }
 
     bool search(string word) {
-        TrieNode* node = root;
-        for (auto& c : word) {
-            int i = c - 'a';
-            if (node->children[i] == nullptr) {
-                return false;
-            }
-            node = node->children[i];
-        }
-        return node->isEnd;
+        TrieNode* node = searchPrefix(word);
+        return node != nullptr && node->isEnd;
     }
 
     bool startsWith(string prefix) {
+        return searchPrefix(prefix) != nullptr;
+    }
+
+    TrieNode* searchPrefix(string prefix) {
         TrieNode* node = root;
         for (auto& c : prefix) {
             int i = c - 'a';
             if (node->children[i] == nullptr) {
-                return false;
+                return nullptr;
             }
             node = node->children[i];
         }
-        return true;
+        return node;
     }
 
 private:
