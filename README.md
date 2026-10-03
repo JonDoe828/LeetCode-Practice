@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0312-burst-balloons](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0312-burst-balloons/) | Hard |
 | [0399-evaluate-division](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0399-evaluate-division/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0491-non-decreasing-subsequences/) | Medium |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0221-maximal-square](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
+| [0312-burst-balloons](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0312-burst-balloons/) | Hard |
 | [0338-counting-bits](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
