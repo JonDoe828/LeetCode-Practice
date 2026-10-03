@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0221-maximal-square](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -411,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -547,4 +551,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
