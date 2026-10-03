@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0179-largest-number/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
@@ -510,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0208-implement-trie-prefix-tree/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
