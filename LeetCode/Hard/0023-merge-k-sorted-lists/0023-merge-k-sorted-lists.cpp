@@ -12,7 +12,6 @@ class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int n = lists.size();
-
         return divide(lists, 0, n - 1);
     }
 
