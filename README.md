@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
@@ -556,9 +559,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
