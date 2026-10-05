@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
