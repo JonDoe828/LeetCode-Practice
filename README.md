@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
+| [0085-maximal-rectangle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0091-decode-ways](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
@@ -360,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
@@ -438,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/JonDoe828/LeetCode-Practice/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 ## Design
